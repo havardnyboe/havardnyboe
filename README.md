@@ -1,4 +1,4 @@
-### Hi there 👋
+![snake gif](https://github.com/havardnyboe/havardnyboe/blob/output/github-contribution-grid-snake.gif)
 
 <!--
 **havardnyboe/havardnyboe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
