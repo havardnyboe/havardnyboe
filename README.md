@@ -1,5 +1,6 @@
 ![snake gif](https://github.com/havardnyboe/havardnyboe/blob/output/github-contribution-grid-snake.svg)
 
+_generated with [Platane/snk](https://github.com/Platane/snk)_
 <!--
 **havardnyboe/havardnyboe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
